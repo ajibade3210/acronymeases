@@ -1,5 +1,0 @@
----
-"acronymeases": patch
----
-
-test versioning
