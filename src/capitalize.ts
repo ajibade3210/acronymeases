@@ -11,4 +11,3 @@ export const capitalizeString = (input: string): string => {
   if (!input) return "";
   return input.toUpperCase();
 };
-// console.log();
