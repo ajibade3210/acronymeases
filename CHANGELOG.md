@@ -1,5 +1,11 @@
 # acronymeases
 
+## 1.0.4
+
+### Patch Changes
+
+- c60f20b: Update Version
+
 ## 1.0.3
 
 ### Patch Changes
