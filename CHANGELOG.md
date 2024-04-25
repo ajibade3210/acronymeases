@@ -1,5 +1,11 @@
 # acronymeases
 
+## 1.1.0
+
+### Minor Changes
+
+- 10c1bcb: Adding All Methods
+
 ## 1.0.4
 
 ### Patch Changes
